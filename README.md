@@ -21,9 +21,9 @@ Este projeto está em evolução! Novas funcionalidades serão implementadas uma
 
 Cada funcionalidade será documentada aqui conforme for implementada.
 
-## Captura de tela
+## Veja o app em ação!
 ![Tela inicial do app1_sorte](lib/assets/images/initialPage-app1_sorte-and-VSCode.png)
-> Adicione aqui uma imagem do app rodando (opcional)
+> Experimente sua sorte! Clique no botão e descubra seu número premiado!
 
 ## Como rodar o projeto
 
