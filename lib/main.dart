@@ -11,7 +11,7 @@ class MainApp extends StatefulWidget {
 
   @override
   State<MainApp> createState() => _MainAppState();
-}
+} // Widget principal do aplicativo
 
 class _MainAppState extends State<MainApp> {
   var _randomNumber = 0;
