@@ -50,7 +50,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 - Professor Guilherme ([guileals](https://github.com/guileals))
 
 ---
-
-**pt:** Adiciona .gitignore padrão para Flutter, inclui licença MIT e informa licença no pubspec.yaml  
-**en:** Add standard .gitignore for Flutter, include MIT license and inform license in pubspec.yaml  
-**zh-CN:** 添加 Flutter 标准 .gitignore，包含 MIT 许可证，并在 pubspec.yaml 中注明许可证
