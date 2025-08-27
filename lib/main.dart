@@ -1,6 +1,6 @@
-import 'dart:math';
+import 'dart:math'; // Importa a biblioteca Math para gerar números aleatórios
 
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart'; // Importa a biblioteca Material do Flutter
 
 void main() {
   runApp(const MainApp());
