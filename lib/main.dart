@@ -29,8 +29,8 @@ class _MainAppState extends State<MainApp> {
         _alert = '';
         _randomNumberList.add(_randomNumber);
       }
-    });
-  }
+    }); // Atualiza o estado do widget
+  } // Gera um novo número aleatório
 
   @override
   Widget build(BuildContext context) {
