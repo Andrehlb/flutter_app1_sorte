@@ -4,7 +4,7 @@ import 'package:flutter/material.dart'; // Importa a biblioteca Material do Flut
 
 void main() {
   runApp(const MainApp());
-}
+} // Função principal que inicia o aplicativo
 
 class MainApp extends StatefulWidget {
   const MainApp({super.key});
