@@ -22,6 +22,7 @@ Este projeto está em evolução! Novas funcionalidades serão implementadas uma
 Cada funcionalidade será documentada aqui conforme for implementada.
 
 ## Captura de tela
+![Tela inicial do app1_sorte](lib/assets/images/initialPage-app1_sorte-and-VSCode.png)
 > Adicione aqui uma imagem do app rodando (opcional)
 
 ## Como rodar o projeto
