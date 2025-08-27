@@ -2,12 +2,24 @@
 
 Sorteador de números da sorte! Um app Flutter simples, moderno e divertido para sortear números aleatórios de 1 a 10, com interface intuitiva e alertas para números repetidos.
 
-## Funcionalidades
+## Funcionalidades Originais
 - Sorteia números aleatórios de 1 a 10
 - Exibe alerta se o número já foi sorteado
 - Mostra lista dos números já sorteados
 - Botão para reiniciar sorteio
 - Interface responsiva e estilizada
+
+## Funcionalidades Adicionadas
+Este projeto está em evolução! Novas funcionalidades serão implementadas uma a uma:
+
+1. Personalizar o intervalo do sorteio (ex: 1 a 100)
+2. Adicionar animações ou efeitos visuais
+3. Salvar histórico dos sorteios
+4. Compartilhar o número sorteado
+5. Temas de cores ou modo escuro
+6. Sons ao sortear
+
+Cada funcionalidade será documentada aqui conforme for implementada.
 
 ## Captura de tela
 > Adicione aqui uma imagem do app rodando (opcional)
